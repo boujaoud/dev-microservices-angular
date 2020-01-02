@@ -10,10 +10,14 @@
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1Vocb7Eke3gehNa0rt6YRd3i6UL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -21,6 +25,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -48,9 +53,21 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="183" y="43" key="SettingsEditor" timestamp="1577975338445">
+      <screen x="0" y="30" width="1360" height="738" />
+    </state>
+    <state x="183" y="43" key="SettingsEditor/0.30.1360.738@0.30.1360.738" timestamp="1577975338445" />
     <state x="387" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1577922973777">
       <screen x="0" y="30" width="1360" height="738" />
     </state>
     <state x="387" y="225" key="com.intellij.ide.util.TipDialog/0.30.1360.738@0.30.1360.738" timestamp="1577922973777" />
+    <state x="62" y="30" key="new project wizard" timestamp="1577975357804">
+      <screen x="0" y="30" width="1360" height="738" />
+    </state>
+    <state x="62" y="30" key="new project wizard/0.30.1360.738@0.30.1360.738" timestamp="1577975357804" />
+    <state x="343" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1577975307639">
+      <screen x="0" y="30" width="1360" height="738" />
+    </state>
+    <state x="343" y="89" width="672" height="678" key="search.everywhere.popup/0.30.1360.738@0.30.1360.738" timestamp="1577975307639" />
   </component>
 </project>
