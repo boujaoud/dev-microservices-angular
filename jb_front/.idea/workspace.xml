@@ -25,7 +25,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -53,10 +53,11 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="183" y="43" key="SettingsEditor" timestamp="1577975338445">
-      <screen x="0" y="30" width="1360" height="738" />
+    <state x="1624" y="18" key="SettingsEditor" timestamp="1577978487591">
+      <screen x="1366" y="0" width="1920" height="1050" />
     </state>
     <state x="183" y="43" key="SettingsEditor/0.30.1360.738@0.30.1360.738" timestamp="1577975338445" />
+    <state x="1624" y="18" key="SettingsEditor/0.30.1366.738/1366.0.1920.1050@1366.0.1920.1050" timestamp="1577978487591" />
     <state x="387" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1577922973777">
       <screen x="0" y="30" width="1360" height="738" />
     </state>
@@ -65,9 +66,11 @@
       <screen x="0" y="30" width="1360" height="738" />
     </state>
     <state x="62" y="30" key="new project wizard/0.30.1360.738@0.30.1360.738" timestamp="1577975357804" />
-    <state x="343" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1577975307639">
-      <screen x="0" y="30" width="1360" height="738" />
+    <state x="344" y="89" width="676" height="679" key="search.everywhere.popup" timestamp="1577981180158">
+      <screen x="0" y="30" width="1366" height="738" />
     </state>
     <state x="343" y="89" width="672" height="678" key="search.everywhere.popup/0.30.1360.738@0.30.1360.738" timestamp="1577975307639" />
+    <state x="344" y="89" width="676" height="679" key="search.everywhere.popup/0.30.1366.738/1366.0.1920.1050@0.30.1366.738" timestamp="1577981180158" />
+    <state x="1850" y="84" width="949" height="965" key="search.everywhere.popup/0.30.1366.738/1366.0.1920.1050@1366.0.1920.1050" timestamp="1577978625873" />
   </component>
 </project>
